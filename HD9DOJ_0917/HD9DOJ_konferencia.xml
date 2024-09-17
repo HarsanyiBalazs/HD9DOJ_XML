@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<konferencia>
+    <cim> A tanulás veszélyei  </cim>
+    <hallgatok>
+        <hallgato>
+            <nev> Harsányi Balázs </nev>
+            <lakcim> Kazincbarcika Petőfi Sándor út 5 </lakcim>
+        </hallgato>
+    </hallgatok>
+    <helyszin> Miskolci Egyetem 32. előadó </helyszin>
+    <eloado>
+        <nev> Bodó Benedek  </nev>
+        <adoszam> 5325236  </adoszam>
+        <lakcim>  Miskolc Jószef utca 6  </lakcim>
+    </eloado>
+    <datum> 2024 Szeptember 19 </datum>
+</konferencia>

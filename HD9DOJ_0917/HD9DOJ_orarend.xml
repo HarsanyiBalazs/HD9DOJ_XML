@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<HB_orarend>
+    <ora id="01" tipus="elmelet">
+        <targy>Adatkezelés XML-ben</targy>
+        <idopont>
+            <nap> Kedd </nap>
+            <tol> 10:00 </tol>
+            <ig> 12:00 </ig>
+        </idopont>
+        <helyszin> Inf/103 </helyszin>
+        <oktato> Bednarik László </oktato>
+        <szak> Programtervező informatikus </szak>
+    </ora>
+    <ora id="02" tipus="gyakorlat">
+        <targy>Adatkezelés XML-ben</targy>
+        <idopont>
+            <nap> Kedd </nap>
+            <tol> 12:00 </tol>
+            <ig> 14:00 </ig>
+        </idopont>
+        <helyszin> Inf/103 </helyszin>
+        <oktato> Bednarik László </oktato>
+        <szak> Programtervező informatikus </szak>
+    </ora>
+    <ora id="03" tipus="gyakorlat">
+        <targy>Mesterséges intelligencia alapok</targy>
+        <idopont>
+            <nap> Szerda </nap>
+            <tol> 10:00 </tol>
+            <ig> 12:00 </ig>
+        </idopont>
+        <helyszin> Ea. 10 </helyszin>
+        <oktato> Fazekas Levente Áron </oktato>
+        <szak> Programtervező informatikus </szak>
+    </ora>
+    <ora id="04" tipus="elmelet">
+        <targy>Mesterséges intelligencia alapok</targy>
+        <idopont>
+            <nap> Szerda </nap>
+            <tol> 16:00 </tol>
+            <ig> 18:00 </ig>
+        </idopont>
+        <helyszin> Ea. 32 </helyszin>
+        <oktato> Kunné Dr. Tamás Judit </oktato>
+        <szak> Programtervező informatikus </szak>
+    </ora>
+    <ora id="05" tipus="elmelet">
+        <targy>Játék prototípusok</targy>
+        <idopont>
+            <nap> Csütörtök </nap>
+            <tol> 12:00 </tol>
+            <ig> 14:00 </ig>
+        </idopont>
+        <helyszin> Inf/114 </helyszin>
+        <oktato> Kiss Áron </oktato>
+        <szak> Programtervező informatikus </szak>
+    </ora>
+    <ora id="06" tipus="gyakorlat">
+        <targy>Játék prototípusok</targy>
+        <idopont>
+            <nap> Csütörtök </nap>
+            <tol> 14:00 </tol>
+            <ig> 16:00 </ig>
+        </idopont>
+        <helyszin> Inf/114 </helyszin>
+        <oktato> Kiss Áron </oktato>
+        <szak> Programtervező informatikus </szak>
+    </ora>
+</HB_orarend>
