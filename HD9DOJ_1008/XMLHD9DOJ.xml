@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<HD9DOJvendeglatas>
+
+    <Etterem ekod="e1">
+        <Csillag>4</Csillag>
+        <Cim>
+            <Varos>Budapest</Varos>
+            <Utca>Visegradi</Utca>
+            <Hazszam>13</Hazszam>
+        </Cim>
+        <Nev>Trofea</Nev>
+    </Etterem>
+
+    <Etterem ekod="e2">
+        <Csillag></Csillag>
+        <Cim>
+            <Varos></Varos>
+            <Utca></Utca>
+            <Hazszam></Hazszam>
+        </Cim>
+        <Nev>Grundel</Nev>
+    </Etterem>
+
+    <Foszakacs fkod="f1" e_f="e1">
+        <Nev></Nev>
+        <Eletkor>35</Eletkor>
+        <Vegzettseg>Szakkozep iskola</Vegzettseg>
+        <Vegzettseg>Le Cordon Bleu</Vegzettseg>
+        <Vegzettseg>Institut Paul Bocuse</Vegzettseg>
+    </Foszakacs>
+
+    <Szakacs szkod="sz1" e_sz="e1">
+        <Nev>Ötlet Elek</Nev>
+        <Reszleg>Saucer</Reszleg>
+        <Vegzettseg>Szakkozep iskola</Vegzettseg>
+        <Vegzettseg>Le Cordon Bleu</Vegzettseg>
+    </Szakacs>
+
+    <Gyakornok gykod="gy1" e_gy="e1">
+        <Nev>Bordas David</Nev>
+        <Gyakorlat>
+            <Kezdete>2024.10.08.</Kezdete>
+            <Idotartama>2 honap</Idotartama>
+        </Gyakorlat>
+        <Muszak>Delelott</Muszak>
+        <Muszak>Este</Muszak>
+    </Gyakornok>
+
+    <Rendeles E_R="gy1" V_R="v1">
+        <Osszeg>5000</Osszeg>
+        <Etel>Rantotthus</Etel>
+    </Rendeles>
+
+    <Rendeles E_R="gy1" V_R="v2">
+        <Osszeg>7000</Osszeg>
+        <Etel>Rakott krumpli</Etel>
+    </Rendeles>
+
+    <Rendeles E_R="gy2" V_R="v3">
+        <Osszeg>300</Osszeg>
+        <Etel>Rohadt alma</Etel>
+    </Rendeles>
+
+    <Vendeg>
+        <Cim>
+            <Varos></Varos>
+            <Utca></Utca>
+            <Hazszam></Hazszam>
+        </Cim>
+        <Nev></Nev>
+        <Eletkor></Eletkor>
+    </Vendeg>
+
+</HD9DOJvendeglatas>
