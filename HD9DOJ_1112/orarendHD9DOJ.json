@@ -1,0 +1,84 @@
+{
+	"HB_orarend": {
+		"ora": [
+			{
+				"targy": "Adatkezelés XML-ben",
+				"idopont": {
+					"nap": "Kedd",
+					"tol": "10",
+					"ig": "12"
+				},
+				"helyszin": "Inf103",
+				"oktato": "Bednarik László",
+				"szak": "Programtervező informatikus",
+				"_id": "1",
+				"_tipus": "elmelet"
+			},
+			{
+				"targy": "Adatkezelés XML-ben",
+				"idopont": {
+					"nap": "Kedd",
+					"tol": "12",
+					"ig": "14"
+				},
+				"helyszin": "Inf103",
+				"oktato": "Bednarik László",
+				"szak": "Programtervező informatikus",
+				"_id": "2",
+				"_tipus": "gyakorlat"
+			},
+			{
+				"targy": "Mesterséges intelligencia alapok",
+				"idopont": {
+					"nap": "Szerda",
+					"tol": "10",
+					"ig": "12"
+				},
+				"helyszin": "Ea10",
+				"oktato": "Fazekas Levente Áron",
+				"szak": "Programtervező informatikus",
+				"_id": "3",
+				"_tipus": "gyakorlat"
+			},
+			{
+				"targy": "Mesterséges intelligencia alapok",
+				"idopont": {
+					"nap": "Szerda",
+					"tol": "16",
+					"ig": "18"
+				},
+				"helyszin": "Ea32",
+				"oktato": "Kunné Dr. Tamás Judit",
+				"szak": "Programtervező informatikus",
+				"_id": "4",
+				"_tipus": "elmelet"
+			},
+			{
+				"targy": "Játék prototípusok",
+				"idopont": {
+					"nap": "Csütörtök",
+					"tol": "12",
+					"ig": "14"
+				},
+				"helyszin": "Inf114",
+				"oktato": "Kiss Áron",
+				"szak": "Programtervező informatikus",
+				"_id": "5",
+				"_tipus": "elmelet"
+			},
+			{
+				"targy": "Játék prototípusok",
+				"idopont": {
+					"nap": "Csütörtök",
+					"tol": "14",
+					"ig": "16"
+				},
+				"helyszin": "Inf114",
+				"oktato": "Kiss Áron",
+				"szak": "Programtervező informatikus",
+				"_id": "6",
+				"_tipus": "gyakorlat"
+			}
+		]
+	}
+}
