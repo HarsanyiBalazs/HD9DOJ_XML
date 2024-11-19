@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<hallgatok xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:noNamespaceSchemaLocation="studentHD9DOJ.xsd">
+    <hallgato id="01">
+        <keresztnev>Pal</keresztnev>
+        <vezeteknev>Kiss</vezeteknev>
+        <becenev>Web Developer</becenev>
+        <kor>21</kor>
+    </hallgato>
+    <hallgato id="02">
+        <keresztnev>Piroska</keresztnev>
+        <vezeteknev>Vigh</vezeteknev>
+        <becenev>Java Programozo</becenev>
+        <kor>20</kor>
+    </hallgato>
+    <hallgato id="03">
+        <keresztnev>Ferenc</keresztnev>
+        <vezeteknev>Nagy</vezeteknev>
+        <becenev>associate professor</becenev>
+        <kor>19</kor>
+    </hallgato>
+</hallgatok>
