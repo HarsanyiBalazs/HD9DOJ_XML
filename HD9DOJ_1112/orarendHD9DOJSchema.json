@@ -1,0 +1,71 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "type": "object",
+    "properties": {
+      "HB_orarend": {
+        "type": "object",
+        "properties": {
+          "ora": {
+            "type": "object",
+            
+                "properties": {
+                  "targy": {
+                    "type": "string"
+                  },
+                  "idopont": {
+                    "type": "object",
+                    "properties": {
+                      "nap": {
+                        "type": "string"
+                      },
+                      "tol": {
+                        "type": "string"
+                      },
+                      "ig": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "nap",
+                      "tol",
+                      "ig"
+                    ]
+                  },
+                  "helyszin": {
+                    "type": "string"
+                  },
+                  "oktato": {
+                    "type": "string"
+                  },
+                  "szak": {
+                    "type": "string"
+                  },
+                  "_id": {
+                    "type": "string"
+                  },
+                  "_tipus": {
+                    "type": "string"
+                  }
+                },
+              
+              "required": [
+                  "targy",
+                  "idopont",
+                  "helyszin",
+                  "oktato",
+                  "szak",
+                  "_id",
+                  "_tipus"
+                ]               
+          },
+          
+        },
+        "required": [
+          "ora"
+        ]
+      }
+    },
+    "required": [
+      "HB_orarend"
+    ]
+  }
