@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<kurzusfelvetel tanev="2024_2025 I." egyetem="ME">
+    <hallgato id="HD9DOJ">
+        <hnev>Harsányi Balázs</hnev>
+        <szulev>2001-10-15</szulev>
+        <szak evf="4">Programtervező informatikus</szak>
+    </hallgato>
+    <kurzusok>
+        <kurzus id="GEIAL332-B">
+            <kurzusnev>Adatkezelés XML-ben</kurzusnev>
+            <kredit>5</kredit>
+            <hely>Inf/103</hely>
+            <idopont>Kedd 12:00-13:30</idopont>
+            <oktato>Dr. Bednarik László</oktato>
+        </kurzus>
+
+        <kurzus id="GEIAK130-B" jovahagyas="igen" nyelv="magyar">
+            <kurzusnev>Mesterséges intelligencia alapok</kurzusnev>
+            <kredit>5</kredit>
+            <hely>E10</hely>
+            <idopont>Szerda 10:00-11:30</idopont>           
+            <oktato>Kunné Dr. Tamás Judit</oktato>
+            <oraado>Fazekas Levente Áron</oraado>
+        </kurzus>
+
+        <kurzus id="GEIAK310-B" jovahagyas="nem" nyelv="magyar">
+            <kurzusnev>Játék prototípusok</kurzusnev>
+            <kredit>5</kredit>
+            <hely>Inf/114</hely>
+            <idopont>Csütörtök 14:00-15:30</idopont>
+            <oktato>Kiss Áron</oktato>
+        </kurzus>
+
+    </kurzusok>
+</HD9DOJ_kurzusfelvetel>
