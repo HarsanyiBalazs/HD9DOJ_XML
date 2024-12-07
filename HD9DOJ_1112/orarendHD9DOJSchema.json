@@ -3,8 +3,8 @@
     "type": "object",
     "properties": {
       "HB_orarend": {
-        "type": "object",
-        "properties": {
+        "type": "array",
+        "items": {
           "ora": {
             "type": "object",
             
@@ -57,7 +57,7 @@
                   "_id",
                   "_tipus"
                 ]               
-          },
+          }
           
         },
         "required": [
