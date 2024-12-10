@@ -182,7 +182,7 @@ public class DomWriteHD9DOJ {
 		Element epulet = doc.createElement("Epulet");
 		
 		//az setAttribute() metódussal beálítjuk az elem attribútomát
-		epulet.setAttribute("ÉID", id);
+		epulet.setAttribute("EPID", id);
 		epulet.appendChild(createBaseElement(doc, "Epulet_nev",nev));
 		epulet.appendChild(createCim(doc,irszam,varos,utca));
 		
